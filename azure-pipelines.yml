@@ -25,7 +25,7 @@ steps:
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'RulesEngineDemo'
     location: 'North Europe'
-    templateLocation: 'URL of the file'
+    templateLocation: 'Linked artifact'
     csmFileLink: 'https://github.com/trstroem/LogicAppVS/blob/master/LogicApp.json'
     csmParametersFileLink: 'https://github.com/trstroem/LogicAppVS/blob/master/LogicApp.parameters.json'
     deploymentMode: 'Incremental'
