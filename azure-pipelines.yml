@@ -26,6 +26,6 @@ steps:
     resourceGroupName: 'RulesEngineDemo'
     location: 'North Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://github.com/trstroem/LogicAppVS/blob/master/LogicApp.json'
-    csmParametersFileLink: 'https://github.com/trstroem/LogicAppVS/blob/master/LogicApp.parameters.json'
+    csmFileLink: 'https://raw.githubusercontent.com/trstroem/LogicAppVS/master/LogicApp.json?token=AMQXAHPBGVEU7UZOVLSUBJC6OJMKQ'
+    csmParametersFileLink: 'https://raw.githubusercontent.com/trstroem/LogicAppVS/master/LogicApp.parameters.json?token=AMQXAHJQA7LVI5H5AFGNUQ26OJMMM'
     deploymentMode: 'Incremental'
