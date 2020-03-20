@@ -97,7 +97,7 @@
                     "method": "post",
                     "body": {
                       "To": "trstroem@microsoft.com",
-                      "Subject": "Hi there again from Logic App - version 4!",
+                      "Subject": "Hi there again from Logic App - new version 5!",
                       "Body": "<p>We have a high load: @{triggerBody()?['load']}</p>"
                     },
                     "path": "/v2/Mail"
