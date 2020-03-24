@@ -80,7 +80,7 @@
                   {
                     "greater": [
                       "@triggerBody()?['load']",
-                      500
+                      90
                     ]
                   }
                 ]
