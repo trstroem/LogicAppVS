@@ -4,6 +4,15 @@
   "parameters": {
     "logicAppName": {
       "value": "LogicAppVS"
+    },
+    "logicAppLocation": {
+      "value": ""
+    },
+    "office365_1_Connection_Name": {
+      "value": ""
+    },
+    "office365_1_Connection_DisplayName": {
+      "value": ""
     }
   }
 }
